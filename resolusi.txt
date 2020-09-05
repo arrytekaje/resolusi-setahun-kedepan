@@ -2,3 +2,5 @@ Resolusi setahun kedepan
 
 - Bisa membuat web sederhana
 - Menguasai OOP
+- Belajar database
+- Menguasai Git&GitHub
