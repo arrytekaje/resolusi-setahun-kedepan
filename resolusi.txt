@@ -1,0 +1,4 @@
+Resolusi setahun kedepan
+
+- Bisa membuat web sederhana
+- Menguasai OOP
